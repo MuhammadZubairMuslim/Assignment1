@@ -1,0 +1,108 @@
+.flex-container{
+    display: flex;
+   /* background-color: aquamarine;*/
+    flex-direction: column;
+    border: 2px solid rebeccapurple;
+}
+.head{
+    
+    margin: 20px;
+    font-size: 50px;
+    
+}
+.para1{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.para2{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.ftext{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+.fname{
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+    
+    
+}
+.ltext{
+    float: left;
+    margin-top: -18px;
+    margin-left: 15px;
+}
+.lname{
+    float: left;
+    margin-left: -70px;
+    width: 20%;
+}
+.pntext{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+.PhoneNumber{
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+}
+.mailtext{
+    float: left;
+    margin-top: -18px;
+    margin-left: 15px;
+}
+.email{
+    float: left;
+    margin-left: -40px;
+    width: 20%;
+}
+.paswordtext{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+.password{
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+    
+    
+}
+.confpaswordtext{
+    float: left;
+    margin-top: -18px;
+    margin-left: 15px;
+}
+.confmpassword{
+    float: left;
+    margin-left: -120px;
+    width: 20%;
+}
+.checkbox{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.checkbox1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.link{
+    text-decoration: none;
+}
+.createButton{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+    background-color: blue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.heaing3{
+    margin-left: 20px;
+}
